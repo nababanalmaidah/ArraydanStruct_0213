@@ -25,4 +25,5 @@ int main () {
     cout << "Alamat : " << mhs.alamat << endl;
     cout << "Umur : " << mhs.umur << endl;
 
+
 }
