@@ -30,3 +30,12 @@ int main() {
     cout << "Umur : ";
     cin >> mhs[i].umur;
     cout << endl;
+    
+{
+for (int i = 0; i <= 2; i++)
+    
+}
+
+    
+    
+
