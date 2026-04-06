@@ -12,3 +12,9 @@ struct Orang
     DetailAlamat alamat;
     int umur;
 };
+
+int main() {
+    Orang mhs[3];
+    
+    for (int i = 0; i <= 2; i++)
+    {
