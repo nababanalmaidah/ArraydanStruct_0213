@@ -23,22 +23,4 @@ int main() {
         cout << "Data index 4 = ";
         cin >> kamu[4];
         cout << end1;
-            // Menampilkan Satu per Satu
-            cout << "Data Pertama = "<< kamu[0] << end1;
-            cout << "Data Kedua = " kamu[1] << end1;
-            cout << "Data Ketiga = " kamu[2] << end1;
-            cout << "Data Keempat = " kamu[3] << end1;
-
-            // Mengisi dengan menggunakan perulangan for
-            for (int i = 0; i <= 4; i++)
-            {
-                cout << "Data index ke-" << i << " = ";
-                cin >> kamu[i];
-            }
-                cout << end1;
-                // Menampilkan dengan menggunakan perulangan for
-                for (int i = 0; i <= 4; i++)
-                {
-                    cout << "Data ke-" << i+1 << " = " << kamu[i] << end1;
-                }
-                
+           
